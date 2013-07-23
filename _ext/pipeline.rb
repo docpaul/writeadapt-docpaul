@@ -1,4 +1,5 @@
 require 'zurb-foundation'
+require './stylesheets/_themes/lib/functions.rb'
 
 Awestruct::Extensions::Pipeline.new do
   # extension Awestruct::Extensions::Posts.new '/news'
